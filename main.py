@@ -7,8 +7,8 @@ __human_name__ = 'strings'
 # Part 1
 
 # 1. Create a variable for every player that scored
-player_0 = "Gullit"
-player_1 = "Van Basten"
+player_0 = "Ruud Gullit"
+player_1 = "Marco van Basten"
 
 # 2. Create a variable for each minute of the match that a goal was scored in
 goal_0 = 32
